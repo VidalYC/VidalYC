@@ -1,14 +1,14 @@
 <div align="center">
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false" alt="Hola, Soy Yoriel Vidal" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false" alt="Hi, I'm Yoriel Vidal" />
   </picture>
   <img src="https://i.gifer.com/3V3X.gif" width="80" alt="wave" />
 </h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Data+Analyst;Ingeniería+de+Sistemas;Transformando+datos+en+insights;Siempre+aprendiendo+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Data+Analyst;Systems+Engineering;Transforming+data+into+insights;Always+learning+🚀)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriel-carvajalino/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoriel-carvajalino.vercel.app/)
@@ -16,24 +16,22 @@
 
 </div>
 
----
+<h1><img height="40" src="https://media.tenor.com/KuBAp-1E3GgAAAAi/pato-aaa.gif"> About Me</h1>
 
-<h1><img height="40" src="https://media.tenor.com/KuBAp-1E3GgAAAAi/pato-aaa.gif"> Sobre Mí</h1>
-
-Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos** e **Ingeniería de Datos**. Apasionado por transformar datos complejos en insights accionables y construir pipelines de datos robustos y escalables.
+**Systems Engineering** student specializing in **Data Analysis** and **Data Engineering**. Passionate about transforming complex data into actionable insights and building robust and scalable data pipelines.
 
 ```python
 🔴 🟡 🟢
 
  1  class DataEngineer:
  2      def __init__(self):
- 3          self.nombre = "Yoriel Carvajalino"
- 4          self.rol = "Data Engineer & Data Analyst"
- 5          self.ubicacion = "Valledupar, Colombia 🇨🇴"
- 6          self.educacion = "Ingeniería de Sistemas - UPC"
- 7          self.lenguajes = ["Python", "SQL", "JavaScript"]
+ 3          self.name = "Yoriel Carvajalino"
+ 4          self.role = "Data Engineer & Data Analyst"
+ 5          self.location = "Valledupar, Colombia 🇨🇴"
+ 6          self.education = "Systems Engineering - UPC"
+ 7          self.languages = ["Python", "SQL", "JavaScript"]
  8          
- 9      def habilidades_actuales(self):
+ 9      def current_skills(self):
 10          return {
 11              "data_engineering": ["ETL", "Data Pipelines", "Big Data"],
 12              "data_analysis": ["EDA", "Statistical Analysis", "ML"],
@@ -42,20 +40,18 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 15              "streaming": ["Kafka", "PySpark", "Trino"]
 16          }
 17      
-18      def objetivo_2025(self):
-19          return "Convertirme en Data Engineer profesional y contribuir a proyectos innovadores"
+18      def goal_2025(self):
+19          return "Become a professional Data Engineer and contribute to innovative projects"
 20  
-21  # Ejecutar
+21  # Run
 22  me = DataEngineer()
-23  print(f"{me.nombre} | {me.rol}")
-24  print(f"Objetivo: {me.objetivo_2025()}")
+23  print(f"{me.name} | {me.role}")
+24  print(f"Goal: {me.goal_2025()}")
 ```
 
-<div align="center">
-
----
-
-## <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"> Stack Tecnológico
+<div>
+  
+## <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"> Tech Stack
 
 ### Data Engineering & Processing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,48 +92,28 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 ---
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas de GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidalYC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidalYC&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
----
 
-## <img height="40" src="https://i.gifer.com/MXfm.gif"> Certificaciones y Educación
+## <img height="40" src="https://i.gifer.com/Paz.gif"> Currently...
 
-<details>
-<summary>Ver</summary>
-  
-- 🎓 **Ingeniería de Sistemas** - Universidad Popular del Cesar
-- 🔐 **Introduction to Cybersecurity** - Cisco Networking Academy (2024)
-- 📊 **Acelerador de Carrera con Power BI** - ZAKIDATA (2024) - 8 horas
-- 💼 **Atención al Cliente por Medios Tecnológicos** - SENA (2025) - 48 horas
-- 🗄️ **Database Foundations** - Oracle
-- 💾 **Database Programming with SQL** - Oracle
-- 🔧 **Database Programming with PL/SQL** - Oracle
-- ⚡ **Instalaciones Eléctricas Domiciliarias** - SENA (2019)
-
-</details>
-
----
-
-
-## <img height="40" src="https://i.gifer.com/Paz.gif"> Actualmente...
-
-- 🔭 Trabajando en proyectos de **Data Engineering** y **ETL pipelines**
-- 🌱 Aprendiendo más sobre **Apache Airflow** y **Cloud Data Platforms**
-- 👯 Buscando colaborar en proyectos de **Data Science** y **Analytics**
-- 💬 Pregúntame sobre **Python, SQL, Power BI, PySpark**
-- 📫 Contáctame: **yorielvidal@gmail.com**
-- ⚡ Dato curioso: Me apasiona encontrar patrones ocultos en los datos
+- 🔭 Working on **Data Engineering** and **ETL pipelines** projects
+- 🌱 Learning more about **Apache Airflow** and **Cloud Data Platforms**
+- 👯 Looking to collaborate on **Data Science** and **Analytics** projects
+- 💬 Ask me about **Python, SQL, Power BI, PySpark**
+- 📫 Contact me: **yorielvidal@gmail.com**
+- ⚡ Fun fact: I'm passionate about finding hidden patterns in data
 
 ---
 
 <div align="center">
 
-### Conecta Conmigo
+### Connect With Me
 
 
 
@@ -150,7 +126,7 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 
 <div align="center">
 
-*"Los datos son el nuevo petróleo, pero solo si sabes cómo refinarlos"*
+*"Data is the new oil, but only if you know how to refine it"*
 
 ---
 
