@@ -1,12 +1,15 @@
 <div align="center">
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false" alt="Hi, I'm Yoriel Vidal" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=FFFFFF&stroke=none&strokeWidth=0&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&stroke=none&strokeWidth=0&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&stroke=none&strokeWidth=0&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Yoriel+Vidal&repeat=false" />
   </picture>
-  <img src="https://i.gifer.com/3V3X.gif" width="80" alt="wave" />
+  <img src="https://i.gifer.com/3V3X.gif" width="80" alt="wave" style="margin-left: 10px;" />
 </h1>
+
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Data+Analyst;Systems+Engineering;Transforming+data+into+insights;Always+learning+🚀)](https://git.io/typing-svg)
