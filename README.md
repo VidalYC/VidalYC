@@ -7,6 +7,7 @@
   </picture>
   <img src="https://i.gifer.com/3V3X.gif" width="80" alt="wave" />
 </h1>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Data+Analyst;Systems+Engineering;Transforming+data+into+insights;Always+learning+🚀)](https://git.io/typing-svg)
 
@@ -76,7 +77,8 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+<br><br>
+
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
@@ -86,6 +88,7 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidalYC&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
+<br><br>
 
 ## <img height="40" src="https://i.gifer.com/Paz.gif"> Currently...
 
@@ -95,14 +98,13 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
 - 💬 Ask me about **Python, SQL, Power BI, PySpark**
 - 📫 Contact me: **yorielvidal@gmail.com**
 - ⚡ Fun fact: I'm passionate about finding hidden patterns in data
+<br><br>
+<br><br>
 
----
 
 <div align="center">
 
 ### Connect With Me
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriel-carvajalino/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoriel-carvajalino.vercel.app/)
@@ -114,8 +116,6 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
 <div align="center">
 
 *"Data is the new oil, but only if you know how to refine it"*
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VidalYC&color=blueviolet&style=for-the-badge)
 
