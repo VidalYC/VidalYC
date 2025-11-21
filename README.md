@@ -111,7 +111,7 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriel-carvajalino/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoriel-carvajalino.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yorielvidal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidalYC)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynavier)
 
 </div>
 
@@ -119,8 +119,8 @@ Grow as a **Data Engineer** and contribute to innovative projects where data bec
 
 *"Data is the new oil, but only if you know how to refine it"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=VidalYC&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ynavier&color=blueviolet&style=for-the-badge)
 
-<img src="https://i.gifer.com/6oa.gif" width="30px"> From [VidalYC](https://github.com/VidalYC)
+<img src="https://i.gifer.com/6oa.gif" width="30px"> From [ynavier](https://github.com/ynavier)
 
 </div>
